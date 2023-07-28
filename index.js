@@ -1,1 +1,0 @@
-const varName = 23
